@@ -1,0 +1,39 @@
+$heading: "Montserrat", sans-serif;
+$subheading: "Montserrat", sans-serif;
+$bodytext: "Roboto", sans-serif;
+$button: "Montserrat", sans-serif;
+$quote: "Montserrat", serif, italic;
+$logo: 'Metal Mania', cursive;
+
+
+
+
+.logo{
+    font-size: 5vh;
+    font-family:$logo;
+    margin: 1vh!important; 
+}
+
+
+h1, h2 {
+   
+   font-family: $heading;
+   margin: 4vh!important; 
+    
+    
+}
+
+h3, h4, h5 {
+   font-family: $heading; 
+   margin: 2vh!important;  
+    
+}
+
+
+
+p {
+   font-size: 16px; 
+   font-family: $bodytext; 
+   margin: 2vh!important; 
+    
+}
